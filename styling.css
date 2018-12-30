@@ -45,7 +45,7 @@ a.button2:hover {
     box-shadow: rgba(255, 255, 255, 1) 0 80px 0px 2px inset;
 }
 
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 768px) {
 .wrap{
   left:unset;
   margin-left:unset;
