@@ -44,3 +44,18 @@ a.button2:hover {
     color: #f2ae72;
     box-shadow: rgba(255, 255, 255, 1) 0 80px 0px 2px inset;
 }
+
+@media screen and (max-width: 600px) {
+.wrap{
+  left:unset;
+  margin-left:unset;
+  margin-top:170px;
+  width:100%;
+}
+
+a{
+  max-width:unset;
+  font-size:6rem;
+  width:70%;
+}
+}
