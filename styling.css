@@ -11,6 +11,7 @@ background-color: #f2ae72;
 }
 
 a {
+  font-family: 'Noto Sans', sans-serif;
     font-size:2rem;
     -webkit-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
     -moz-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
