@@ -49,8 +49,9 @@ a.button2:hover {
 .wrap{
   left:unset;
   margin-left:unset;
-  margin-top:170px;
+  margin-top:unset;
   width:100%;
+  top: 25%;
 }
 
 a{
