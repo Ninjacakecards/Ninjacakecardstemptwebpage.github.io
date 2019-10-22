@@ -33,7 +33,7 @@ a.button {
 
 a.button:hover {
     color: #f2ae72;
-    box-shadow: rgba(255, 255, 255, 1) 0 0px 0px 40px inset;
+    box-shadow: rgba(255, 255, 255, 1) 0 0px 0px 100px inset;
 }
 
 a.button2 {
